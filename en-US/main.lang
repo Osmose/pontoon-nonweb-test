@@ -1,0 +1,14 @@
+;Normal String
+Normal String
+
+# This string has a comment.
+;String with comment.
+String with comment.
+
+# This string is marked as {ok} in translated langfiles.
+;Marked OK
+Marked OK
+
+# This string has escaped newlines.
+;Escaped \n Newlines
+Escaped \n Newlines

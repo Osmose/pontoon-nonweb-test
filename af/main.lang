@@ -12,3 +12,7 @@ Marked OK {ok}
 # This string has escaped newlines.
 ;Escaped \n Newlines
 Translated Escaped \n Newlines
+
+# This string has an unknown escape sequence.
+;Unknown \blackmage Escape
+Translated Unknown \blackmage Escape
